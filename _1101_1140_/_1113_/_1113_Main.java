@@ -1,4 +1,4 @@
-package beecrowd.iniciante._1101_1140_._1113_Main;
+package beecrowd.iniciante._1101_1140_._1113_;
 
 import java.util.ArrayList;
 import java.util.List;
