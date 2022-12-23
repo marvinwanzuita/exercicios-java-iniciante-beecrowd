@@ -15,6 +15,5 @@ public class _1144_Main {
             System.out.println(i + " " + ((i * i) + 1) + " " + ((i * i * i) + 1));
         }
 
-
     }
 }
